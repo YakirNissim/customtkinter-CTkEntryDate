@@ -1,9 +1,12 @@
-This is how it looks:
+# This is how it looks:
 
 ![EntryDate](https://github.com/YakirNissim/customtkinter-CTkEntryDate/assets/101890349/9c5ebd99-da62-4a34-b9f5-1864b9163ee5)
 
+# Note:
+* The dates are in the range of years from 2000 to 2099!
+* The returned value is a tuple in the following format (DD, MM, YY)
 
-My code:
+# My code:
 
         import customtkinter
         from typing import Any
@@ -124,4 +127,4 @@ My code:
         
             app.mainloop()
 
-Hope this helps you 😃
+## Hope this helps you 😃
