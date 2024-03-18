@@ -1,3 +1,8 @@
+This is how it looks:
+
+![EntryDate](https://github.com/YakirNissim/customtkinter-CTkEntryDate/assets/101890349/9c5ebd99-da62-4a34-b9f5-1864b9163ee5)
+
+
 My code:
 
         import customtkinter
@@ -118,10 +123,5 @@ My code:
             button2.pack()
         
             app.mainloop()
-
-This is how it looks:
-
-![EntryDate](https://github.com/YakirNissim/customtkinter-CTkEntryDate/assets/101890349/9c5ebd99-da62-4a34-b9f5-1864b9163ee5)
-
 
 Hope this helps you 😃
